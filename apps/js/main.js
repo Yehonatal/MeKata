@@ -12,7 +12,7 @@ addEventListener("load", () => {
     fetch("https://www.codewars.com/api/v1/users/R4nn3r")
         .then((response) => response.json())
         .then((data) => {
-            // Use the data to update the content of your webpage
+            // Use the data to update page
             name.innerText = data.name;
             honor.innerText = data.honor;
             kata.innerText = data.codeChallenges.totalCompleted;
@@ -30,7 +30,6 @@ button.addEventListener("click", (e) => {
     fetch(`https://www.codewars.com/api/v1/users/${userName}`)
         .then((response) => response.json())
         .then((data) => {
-            // Use the data to update the content of your webpage
             name.innerText = data.name;
             honor.innerText = data.honor;
             kata.innerText = data.codeChallenges.totalCompleted;
