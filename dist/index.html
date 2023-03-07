@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <link
+            rel="shortcut icon"
+            href="https://docs.codewars.com/logo.svg"
+            type="image/x-icon"
+        />
+
+        <title>MeKata</title>
+
+        <link rel="stylesheet" href="/apps/style/style.css" />
+    </head>
+    <body>
+        <main class="wrapper">
+            <div class="wrapper__button flex-search">
+                <input type="search" id="search" />
+                <button id="my-button">Request</button>
+            </div>
+            <div class="wrapper__box flex">
+                <div class="wrapper__box__side-1 box">
+                    <h1>Progress</h1>
+                    <p class="name">Name: <span id="name"></span></p>
+                    <p class="honor">Honor: <span id="honor"></span></p>
+                    <p class="kata">
+                        Total Completed Kata: <span id="kata"></span>
+                    </p>
+                </div>
+
+                <div class="wrapper__box__side-2 box">
+                    <h1>Status</h1>
+                    <p class="rank">Rank: <span id="rank"></span></p>
+                    <p class="score">Score: <span id="score"></span></p>
+                </div>
+            </div>
+        </main>
+        <script src="/apps/js/main.js"></script>
+    </body>
+</html>
