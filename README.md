@@ -1,6 +1,6 @@
 ﻿# [MeKata](https://mekata-sukata.netlify.app/)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/020227da-a718-4cc0-8f70-e43b2fa7be79/deploy-status)](https://app.netlify.com/sites/mekata-sukata/deploys)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/020227da-a718-4cc0-8f70-e43b2fa7be79/deploy-status)](https://app.netlify.com/sites/mekata-sukata/deploys)
 
 Hey there, fellow knowledge-seekers! I've recently joined the ranks of the intellectually elite by signing up for the [codwars.com](https://www.codewars.com/)) platform. But alas, despite my undeniably brilliant performance, I was unable to bask in the glory of my high score on the dashboard :). So, I decided to take matters into my own hands and create `MeKata` - my very own learning dashboard for every platform am gonna join to learn Problem solving!
 
