@@ -7,3 +7,7 @@ Hey there, fellow knowledge-seekers! I've recently joined the ranks of the intel
 Because let's be real, who needs those mediocre dashboards anyway? With `MeKata`, you'll have access to the most cutting-edge, state-of-the-art technology available on the market: a notepad and a pen. But don't let the simplicity fool you - this is where the magic happens. With `MeKata`, you'll be able to track your progress, set goals, and watch in amazement as your brain expands like a balloon on a helium-infused rampage.well when i know how to build something like that :(
 
 So, join me on this epic journey of self-improvement and enlightenment. Who knows, maybe we'll even surpass the knowledge of the ancient Greek philosophers. Or at least get a few extra points on that pesky dashboard. Let's do this!
+
+## License
+
+This project is licensed under the MIT License - see the `LICENSE` file for details.
