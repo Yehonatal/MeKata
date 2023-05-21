@@ -42,11 +42,11 @@
     }
 
     &__button {
-        max-width: 500px;
+        max-width: 580px;
         width: 100%;
         display: flex;
         gap: 20px;
-        margin-bottom: 50px;
+        margin-bottom: 20px;
 
         input {
             width: 100%;
@@ -97,7 +97,8 @@
     flex-direction: row;
     gap: 40px;
     flex-wrap: wrap;
-
+    max-width: 580px;
+    width: 100%;
     @include breakpoints-down(small) {
         gap: 10px;
     }
